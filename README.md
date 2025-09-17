@@ -69,12 +69,12 @@ You can install the required packages manually or use the provided batch file fo
 Your project directory should now look like this:
 ```
 Pyoofer/
-├── pyoofer.py
+├── spoofer.py
 ├── spoofer_core.exe
 ├── VolumeId64.exe
 ├── requirements.txt
 ├── install_requirements.bat   <-- For easy installation
-└── run_as_admin.bat           <-- For easy launch
+└── run spoofer.bat            <-- For easy launch
 ```
 
 ---
@@ -82,14 +82,14 @@ Pyoofer/
 ##  How to Use
 
 #### Easy Method (Recommended)
-- Simply double-click the **`run_as_admin.bat`** file. It will automatically request administrator privileges and launch the application.
+- Simply double-click the **`run spoofer.bat`** file. It will automatically request administrator privileges and launch the application.
 
 #### Manual Method
 1.  You must run the script with administrator privileges.
-2.  Right-click `pyoofer.py` and select "Run as administrator".
+2.  Right-click `spoofer.py` and select "Run as administrator".
 3.  **OR**, open a Command Prompt or PowerShell as Administrator, navigate to the project directory, and run:
     ```bash
-    python pyoofer.py
+    python spoofer.py
     ```
 
 #### Recommended Workflow
