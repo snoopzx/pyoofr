@@ -15,6 +15,14 @@ Pyoofer is a sophisticated, GUI-based tool for Windows designed to modify a wide
 
 ---
 
+## (Antivirus Notice)
+
+Due to the nature of this application, which modifies low-level system identifiers, **most antivirus programs will flag it as "malicious"** or a "virus" through behavioral detection. This is a **false positive**.
+
+To use Pyoofer, you **must add the entire project folder to your antivirus's exclusion/exception list** before running the application. If a file is quarantined, you will need to restore it first and then add the exception.
+
+---
+
 ##  Features
 
 - **Modern GUI:** An intuitive and clean user interface built with PyQt6 and Qtawesome for icons.
