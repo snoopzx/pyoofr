@@ -1,6 +1,6 @@
 # Pyoofer - Advanced Python HWID Spoofer
 
-![Pyoofer Screenshot](https://imgur.com/a/WSfmx0H)
+![Pyoofer Screenshot](https://i.imgur.com/6E1nQPi.png)
 
 Pyoofer is a sophisticated, GUI-based tool for Windows designed to modify a wide range of hardware (HWID) and software identifiers. Built with a modern PyQt6 interface, this tool provides a comprehensive suite of features for users interested in privacy, security research, or educational purposes.
 
