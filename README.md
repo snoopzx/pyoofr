@@ -78,9 +78,11 @@ Your project directory should now look like this:
 ```
 Pyoofer/
 ├── spoofer.py
-├── spoofer_core.exe
+├── spoofer_core.exe   <-- spoofer_core.cpp compiled
+├── spoofer_core.cpp   <-- spoofer_core.exe source code
 ├── VolumeId64.exe
 ├── requirements.txt
+├── processors.json
 ├── install_requirements.bat   <-- For easy installation
 └── run spoofer.bat            <-- For easy launch
 ```
